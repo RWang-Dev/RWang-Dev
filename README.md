@@ -4,8 +4,11 @@
 - 🌱 I’m currently working on making my own web applications and games with different frameworks and softwares
 - 📫 You can reach out to me at robwang.us@gmail.com or wan00379@umn.edu
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=RWang-Dev&show_icons=true&theme=radical)
-[![RWang wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RWang&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center">
+	<br>
+	![My GitHub stats](https://github-readme-stats.vercel.app/api?username=RWang-Dev&show_icons=true&theme=radical)
+<p>
 <p align="center">
 	<br>
 	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=RWang&theme=dracula&layout=compact">
