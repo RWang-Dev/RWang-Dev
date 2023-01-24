@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Robert Wang
-- 🔭 I’m a sophomore computer science student at the University of Minnesota Twin Cities
+- 🔭 I’m a junior computer science student at the University of Minnesota Twin Cities
 - 👀 I’m interested in software development, game development, and artificial intelligence
 - 🌱 I’m currently working on making my own web applications and games with different frameworks and softwares
 - 📫 You can reach out to me at robwang.us@gmail.com or wan00379@umn.edu
