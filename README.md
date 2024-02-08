@@ -6,10 +6,10 @@
 
 
 
-	
+	![My GitHub stats](https://github-readme-stats.vercel.app/api?username=RWang-Dev&show_icons=true&theme=radical)
 
 	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=RWang&theme=radical&layout=compact">
- 	![My GitHub stats](https://github-readme-stats.vercel.app/api?username=RWang-Dev&show_icons=true&theme=radical)
+ 	
 
 <!---
 RWang03/RWang03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
