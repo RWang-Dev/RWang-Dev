@@ -6,7 +6,8 @@
 
 
 
-	![My GitHub stats](https://github-readme-stats.vercel.app/api?username=RWang-Dev&show_icons=true&theme=radical)
+	<!--![My GitHub stats](https://github-readme-stats.vercel.app/api?username=RWang-Dev&show_icons=true&theme=radical)--->
+	[![GitHub Streak](https://streak-stats.demolab.com/?user=benjaminlindeen&theme=dark)](https://git.io/streak-stats)
 
 	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=RWang&theme=radical&layout=compact">
  	
